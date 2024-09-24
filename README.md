@@ -48,7 +48,7 @@
   <br>
   삼성 청년 SW 아카데미 
   <br>
-  Samsung Software Academy For Youth, SSAFY
+  Samsung Software Academy For Youth (SSAFY)
   <br>
   <br>
   2023.07 - 2023.11
@@ -62,7 +62,7 @@
   <br>
   화학과 졸업 
   <br>
-  Bachelor of Science -  Specialization in Chemistry
+  Bachelor of Science,  Specialization in Chemistry
 </div>
 
 
