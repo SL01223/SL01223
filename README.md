@@ -46,15 +46,23 @@
 <div align="center">
   2024.01 - present 
   <br>
-  삼성 청년 SW 아카데미 (Samsung Software Academy For Youth, SSAFY)
+  삼성 청년 SW 아카데미 
+  <br>
+  Samsung Software Academy For Youth, SSAFY
+  <br>
   <br>
   2023.07 - 2023.11
   <br>
-  백엔드 개발자 부트캠프 (Back-end developer Bootcamp)
+  백엔드 개발자 부트캠프 
+  <br>
+  Back-end developer Bootcamp
+  <br>
   <br>
   2017.09 - 2022.06
   <br>
-  화학과 졸업 (Bachelor of Science -  Specialization in Chemistry)
+  화학과 졸업 
+  <br>
+  Bachelor of Science -  Specialization in Chemistry
 </div>
 
 
