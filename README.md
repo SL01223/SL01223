@@ -42,7 +42,7 @@
 
 <h3 align="center"> 📚 Educations 📚 </h3>
 <div align="center">
-  2024.01 - present 
+  2024.01 - 2024.12
   <br>
   삼성 청년 SW 아카데미 
   <br>
