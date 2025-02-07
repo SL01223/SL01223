@@ -65,7 +65,7 @@
 
 
 
-<h3 align="center"> 📞 Contacts 📞 </h3>
+<h3 align="center"> 📞 Contact 📞 </h3>
 <div align="center">
   📫 lsy5881@gmail.com
 </div>
